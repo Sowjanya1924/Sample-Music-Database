@@ -1,6 +1,6 @@
 # Sample-Music-Database
 Structured Query Language(SQL) is a standard language for storing, manipulating and retrieving data in databases. 
-By using one of the widely used Database Management System MySQL I created a sample database for music system like spotify,gaana,..etc.
+By using one of the widely used Database Management System MySQL I created a sample database for music system.
 
 Building a physical Database schema:
 
@@ -10,5 +10,4 @@ To create database:
 
 Query- CREATE DATABASE database_name DEFAULT CHARACTER SET utf8;
 
-
-
+default character set helps us to write any non-latin,ancient greek,russian,..etc.
